@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity%20(CC)-007ACC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Specialization-Nov%202024-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Specialization-4285F4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Junior%20Penetration%20Tester-TryHackMe-00CC66?style=for-the-badge" />
 </div>
 
