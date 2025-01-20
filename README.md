@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                  | 
 |----------------------------------------|
 | Basic Network Pentesting               | 
-| Vulnerability Assestment               |
-| Basic Reverse Engineering              |
+| Vulnerability Assessment               |
+| Reverse Engineering                    |
 | Basic Scripting                        |
 
 ## Tools
