@@ -70,5 +70,3 @@
 <img align="right" src="https://profile-counter.glitch.me/0x5900FX/count.svg?"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/0x5900FX/0x5900FX/output/snake.svg" alt="Snake animation" />
