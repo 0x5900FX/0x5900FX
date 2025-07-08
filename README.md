@@ -1,4 +1,16 @@
-<h1 align="center">Hey Mate 👋What's Up?</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Niraj+Thapa;Congratulation+On+Reaching+Here" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Security+Researcher;Human+-+The+Weakest+Link" alt="Typing SVG" />
+  </a>
+</p>
 
 ###
 
