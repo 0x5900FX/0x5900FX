@@ -12,6 +12,8 @@
   </a>
 </p>
 
+---
+
 ###
 
 <div align="center">
@@ -40,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
+---
+
 ###
 
 <div align="center">
@@ -49,6 +53,8 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
 </div>
+
+---
 
 ###
 
@@ -60,6 +66,7 @@
 </div>
 
 ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x5900FX/0x5900FX/output/pacman-contribution-graph-dark.svg">
