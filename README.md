@@ -75,17 +75,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0x5900FX/count.svg?"  />
-</div>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/0x5900FX/count.svg?"  />
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/0x5900FX/count.svg?"  />
-
-###
